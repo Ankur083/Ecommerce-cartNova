@@ -102,7 +102,7 @@ npm install
 Create a `.env` file in the Backend folder and add:
 
 ```env
-PORT=8001
+PORT=PORT_NUMBER
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
 
